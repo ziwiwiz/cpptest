@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "name": "MyProject",
+            "includePath": [
+                "${workspaceFolder}/include",
+                "/usr/local/include/gtest"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
