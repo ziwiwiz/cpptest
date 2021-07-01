@@ -4,4 +4,9 @@
         "MIMode": "gdb"
     },
     "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "files.associations": {
+        "bash_profile": "shellscript",
+        "*.cpp": "cpp",
+        "vector": "cpp"
+    },
 }
